@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white50">#80FFFFFF</color>
+
+    <color name="background_color">#EFEFF3</color>
+
+    <color name="bottom_navigation_unselected">#141A1E</color>
+    <color name="bottom_navigation_selected">#1675FF</color>
+
+    <color name="notification_switch_gradient_start_color">#0090F6</color>
+    <color name="notification_switch_gradient_end_color">#004DF4</color>
+
+
+    <color name="text_primary">#141A1E</color>
+    <color name="text_secondary">#898C8E</color>
+
+    <color name="pro_border">#FFB854</color>
+
+    <color name="pro_border_gradient_start">#E2591A</color>
+    <color name="pro_border_gradient_end">#A7511A</color>
+
+    <color name="allow_notification_gradient_start">#0090F6</color>
+    <color name="allow_notification_gradient_end">#004DF4</color>
+
+    <color name="text_primary_disabled">#898C8E</color>
+    <color name="text_secondary_disabled">#DDE2E8</color>
+
+</resources>
